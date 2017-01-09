@@ -1,7 +1,7 @@
 {
   "name": "waves-grunt-github-releaser",
   "description": "Task for automating github releases",
-  "version": "0.2",
+  "version": "0.2.0",
   "homepage": "https://github.com/wavesplatform/grunt-github-releaser",
   "author": {
     "name": "Andrey Terentyev",
