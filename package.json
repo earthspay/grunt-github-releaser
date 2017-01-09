@@ -1,23 +1,23 @@
 {
-  "name": "grunt-github-releaser",
+  "name": "waves-grunt-github-releaser",
   "description": "Task for automating github releases",
-  "version": "0.1.18",
-  "homepage": "https://github.com/dolbyzerr/grunt-github-releaser",
+  "version": "0.2",
+  "homepage": "https://github.com/wavesplatform/grunt-github-releaser",
   "author": {
     "name": "Andrey Terentyev",
     "email": "dolby0@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dolbyzerr/grunt-github-releaser.git"
+    "url": "git://github.com/wavesplatform/grunt-github-releaser.git"
   },
   "bugs": {
-    "url": "https://github.com/dolbyzerr/grunt-github-releaser/issues"
+    "url": "https://github.com/wavesplatform/grunt-github-releaser/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/dolbyzerr/grunt-github-releaser/blob/master/LICENSE-MIT"
+      "url": "https://github.com/wavesplatform/grunt-github-releaser/blob/master/LICENSE-MIT"
     }
   ],
   "engines": {
